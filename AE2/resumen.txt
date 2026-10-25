@@ -1,0 +1,30 @@
+ACTIVIDAD 2 - MANEJO DE ARCHIVOS CSV, JSON Y TXT
+============================================================
+
+ARCHIVO CSV
+------------------------------------------------------------
+URL de origen: https://huggingface.co/datasets/copenlu/spiced/resolve/main/dev.csv
+Archivo importado: c:\Users\yara.sanchez\Analitica-de-Datos\AE2\datos_originales\dev.csv
+Archivo guardado: c:\Users\yara.sanchez\Analitica-de-Datos\AE2\datos_modificados\dev_modificado.csv
+Registros procesados: 664
+Clase utilizada: ManejadorCSV
+Metodos utilizados:
+  - importar_csv
+  - modificar_registro
+  - guardar_csv
+Modificaciones realizadas:
+  - Registro 0, columna 'News Finding': '"These findings could be the basis for novel rehabilitation procedures for the many neural disorders that are characterized by improper neural activity," Yu says.' -> 'Registro actualizado para la Actividad 2'
+
+ARCHIVO JSON
+------------------------------------------------------------
+URL de origen: https://huggingface.co/datasets/BreezeBlue/TTS-Voice-Design-Benchmark/resolve/main/tts_voice_design_dataset.jsonl
+Archivo importado: c:\Users\yara.sanchez\Analitica-de-Datos\AE2\datos_originales\tts_voice_design_dataset.json
+Archivo guardado: c:\Users\yara.sanchez\Analitica-de-Datos\AE2\datos_modificados\tts_voice_design_modificado.json
+Registros procesados: 1000
+Clase utilizada: ManejadorJSON
+Metodos utilizados:
+  - importar_json
+  - modificar_registro
+  - guardar_json
+Modificaciones realizadas:
+  - Registro 0, campo 'language': 'en' -> 'es'
