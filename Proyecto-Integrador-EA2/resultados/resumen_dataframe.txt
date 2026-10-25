@@ -1,0 +1,22 @@
+PROYECTO INTEGRADOR EA2 - ANÁLISIS DE VENTAS
+=======================================================
+Dataset: dev02chandan/sales-forecast-dataset
+Split utilizado: train
+Muestra utilizada: No. Se utiliza el split train completo.
+Cantidad de filas: 7414
+Cantidad de columnas: 12
+
+COLUMNAS, TIPOS DE DATOS Y VALORES NULOS
+-------------------------------------------------------
+Product_Id | Tipo: str | Nulos: 0
+Product_Sugar_Content | Tipo: str | Nulos: 0
+Product_Type | Tipo: str | Nulos: 0
+Store_Id | Tipo: str | Nulos: 0
+Store_Size | Tipo: str | Nulos: 0
+Store_Location_City_Type | Tipo: str | Nulos: 0
+Store_Type | Tipo: str | Nulos: 0
+Product_Weight | Tipo: float64 | Nulos: 0
+Product_Allocated_Area | Tipo: float64 | Nulos: 0
+Product_MRP | Tipo: float64 | Nulos: 0
+Store_Establishment_Year | Tipo: float64 | Nulos: 0
+Product_Store_Sales_Total | Tipo: float64 | Nulos: 0
