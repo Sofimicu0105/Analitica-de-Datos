@@ -1,0 +1,36 @@
+RESUMEN DEL DATASET: Iris transformado
+==================================================
+Cantidad de filas: 100
+Cantidad de columnas: 7
+
+COLUMNAS Y TIPOS DE DATOS
+--------------------------------------------------
+id: int64
+largo_sepalo: float64
+ancho_sepalo: float64
+largo_petalo: float64
+ancho_petalo: float64
+especie: str
+area_petalo: float64
+
+VALORES NULOS POR COLUMNA
+--------------------------------------------------
+id: 0
+largo_sepalo: 0
+ancho_sepalo: 0
+largo_petalo: 0
+ancho_petalo: 0
+especie: 0
+area_petalo: 0
+
+ESTADISTICAS DESCRIPTIVAS
+--------------------------------------------------
+               id  largo_sepalo  ancho_sepalo  largo_petalo  ancho_petalo  area_petalo
+count  100.000000    100.000000    100.000000    100.000000    100.000000   100.000000
+mean   100.500000      6.262000      2.872000      4.906000      1.676000     8.508300
+std     29.011492      0.662834      0.332751      0.825578      0.424769     3.328875
+min     51.000000      4.900000      2.000000      3.000000      1.000000     3.300000
+25%     75.750000      5.800000      2.700000      4.375000      1.300000     5.627500
+50%    100.500000      6.300000      2.900000      4.900000      1.600000     7.745000
+75%    125.250000      6.700000      3.025000      5.525000      2.000000    11.392500
+max    150.000000      7.900000      3.800000      6.900000      2.500000    15.870000
