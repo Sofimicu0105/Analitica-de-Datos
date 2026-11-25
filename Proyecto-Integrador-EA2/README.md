@@ -15,6 +15,14 @@ El proyecto cuenta con un dashboard interactivo desarrollado en Streamlit y desp
 
 La aplicación permite consultar indicadores comerciales, explorar visualizaciones, aplicar filtros y descargar los resultados del análisis.
 
+## Informe final del proyecto
+
+El informe académico integra todas las etapas desarrolladas durante el semestre, incluyendo la necesidad analítica, el marco teórico, la metodología, el procesamiento de datos, las métricas, las visualizaciones, los resultados y las conclusiones.
+
+- [Informe final en PDF](documento/Informe_Final_SuperKart.pdf)
+- [Informe final en Word](documento/Informe_Final_SuperKart.docx)
+- [Documento inicial del proyecto](documento/Proyecto_Integrador_EA2_Documento_Inicial.docx)
+
 ## 2. Descripción del proyecto
 
 SuperKart Analytics surge como una propuesta para analizar el comportamiento de las ventas comerciales a partir de un conjunto de datos disponible en Hugging Face.
