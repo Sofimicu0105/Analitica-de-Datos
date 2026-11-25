@@ -1,0 +1,4 @@
+Store_Id,Store_Type,Store_Location_City_Type,Store_Size,Registros,Ventas_totales,Ventas_promedio
+OUT001,Supermarket Type1,Tier 2,High,1586,6223113.18,3923.7788020176545
+OUT002,Food Mart,Tier 3,Small,1152,2030909.72,1762.9424652777777
+OUT004,Supermarket Type2,Tier 2,Medium,4676,15427583.43,3299.312110778443

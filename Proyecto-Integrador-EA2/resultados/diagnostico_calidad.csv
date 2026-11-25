@@ -1,0 +1,13 @@
+,Tipo de dato,Valores nulos,Valores únicos,Porcentaje de nulos
+Product_Id,str,0,7414,0.0
+Product_Sugar_Content,str,0,4,0.0
+Product_Type,str,0,16,0.0
+Store_Id,str,0,3,0.0
+Store_Size,str,0,3,0.0
+Store_Location_City_Type,str,0,2,0.0
+Store_Type,str,0,3,0.0
+Product_Weight,float64,0,976,0.0
+Product_Allocated_Area,float64,0,223,0.0
+Product_MRP,float64,0,5232,0.0
+Store_Establishment_Year,float64,0,3,0.0
+Product_Store_Sales_Total,float64,0,7333,0.0
